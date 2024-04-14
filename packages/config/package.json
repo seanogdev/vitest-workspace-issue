@@ -1,0 +1,16 @@
+{
+  "name": "vitest-issue-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.2.8",
+    "vitest": "^1.5.0"
+  }
+}

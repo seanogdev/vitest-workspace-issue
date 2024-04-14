@@ -1,0 +1,16 @@
+{
+  "name": "vitest-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app:dev": "pnpm -F vitest-issue-app dev",
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^1.5.0"
+  }
+}
